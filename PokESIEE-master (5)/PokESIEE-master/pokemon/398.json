@@ -1,0 +1,27 @@
+{
+  "ability": {
+    "charge": 1,
+    "gros_yeux": 1,
+    "vive_attaque": 1,
+    "cru_aile": 1,
+    "aeropique": 16,
+    "belier": 20,
+    "close_combat": 22,
+    "rapace": 24
+
+  },
+  "stats": {
+    "attack": 120,
+    "defense": 70,
+    "attack_spe": 50,
+    "defense_spe": 50,
+    "speed": 100
+  },
+  "name": "Etouraptor",
+  "level": 21,
+  "base_health":85,
+
+  "type": ["FLYING","NORMAL"],
+  "evolution" :[],
+  "exp_points": 172
+}

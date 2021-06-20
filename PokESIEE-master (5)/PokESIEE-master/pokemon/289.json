@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "griffe": 1,
+    "gros_yeux": 1,
+    "feinte": 1,
+    "attrition": 13,
+    "tranche": 17,
+    "casse_brique": 20,
+    "marto_poing": 24
+
+  },
+  "stats": {
+    "attack": 160,
+    "defense": 100,
+    "attack_spe": 95,
+    "defense_spe": 65,
+    "speed": 100
+  },
+  "name": "Monaflemit",
+  "level": 23,
+  "base_health":150,
+
+  "type": ["NORMAL"],
+  "evolution" :[],
+  "exp_points": 210
+}

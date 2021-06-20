@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "griffe": 1,
+    "rugissement": 1,
+    "flammeche": 6,
+    "griffe_acier": 8,
+    "croc_feu": 10,
+    "tranche": 17
+  },
+  "stats": {
+    "attack": 64,
+    "defense": 58,
+    "attack_spe": 80,
+    "defense_spe": 65,
+    "speed": 80
+  },
+  "name": "Reptincel",
+  "level": 12,
+  "base_health": 58,
+
+  "type": ["FIRE"],
+  "evolution" :[6,24],
+  "exp_points": 142
+}

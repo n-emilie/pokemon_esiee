@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "eclair": 1,
+    "double_pied": 5,
+    "vive_attaque": 9,
+    "boule_elec": 13,
+    "etincelle": 15,
+    "tonnerre": 20,
+    "fatal_foudre": 30
+
+  },
+  "stats": {
+    "attack": 90,
+    "defense": 55,
+    "attack_spe": 90,
+    "defense_spe": 80,
+    "speed": 110
+  },
+  "name": "Raichu",
+  "level": 16,
+  "base_health": 60,
+
+  "type": ["ELECTRIC"],
+  "evolution" :[],
+  "exp_points": 122
+}

@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "morsure": 1,
+    "gros_yeux": 1,
+    "flammeche": 7,
+    "roue_de_feu": 11,
+    "croc_feu": 14,
+    "belier": 16
+
+  },
+  "stats": {
+    "attack": 70,
+    "defense": 45,
+    "attack_spe": 70,
+    "defense_spe": 50,
+    "speed": 60
+  },
+  "name": "Caninos",
+  "level": 1,
+  "base_health": 55,
+
+  "type": ["FIRE"],
+  "evolution" :[59,18],
+  "exp_points": 91
+}

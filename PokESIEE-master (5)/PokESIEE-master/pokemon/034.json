@@ -1,0 +1,28 @@
+{
+  "ability": {
+    "griffe": 1,
+    "gros_yeux": 1,
+    "double_pied": 7,
+    "dard_venin": 9,
+    "coup_dkorne": 12,
+    "direct_toxic": 21,
+    "telluriforce": 23,
+    "megacorne": 26,
+    "detricanon": 29
+
+  },
+  "stats": {
+    "attack": 92,
+    "defense": 77,
+    "attack_spe": 85,
+    "defense_spe": 75,
+    "speed": 85
+  },
+  "name": "Nidoking",
+  "level": 20,
+  "base_health": 81,
+
+  "type": ["POISON","GROUND"],
+  "evolution" :[],
+  "exp_points": 195
+}

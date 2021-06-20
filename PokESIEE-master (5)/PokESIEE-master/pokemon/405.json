@@ -1,0 +1,27 @@
+{
+  "ability": {
+    "charge": 1,
+    "gros_yeux": 1,
+    "etincelle": 8,
+    "morsure": 11,
+    "machouille": 16,
+    "croc_elec": 20,
+    "coup_de_jus": 25,
+    "tonnerre": 27
+
+  },
+  "stats": {
+    "attack": 120,
+    "defense": 80,
+    "attack_spe": 95,
+    "defense_spe": 80,
+    "speed": 70
+  },
+  "name": "Luxray",
+  "level": 23,
+  "base_health": 80,
+
+  "type": ["ELECTRIC"],
+  "evolution" :[],
+  "exp_points": 194
+}

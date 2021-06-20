@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "chute_de_glace": 1,
+    "tranche": 1,
+    "vent_glace": 1,
+    "laser_glace": 20,
+    "saumure": 23,
+    "blizzard": 25,
+    "surpuissance": 28
+  },
+  "stats": {
+    "attack": 130,
+    "defense": 80,
+    "attack_spe": 70,
+    "defense_spe": 80,
+    "speed": 50
+  },
+  "name": "Polagriffe",
+  "level": 1,
+  "base_health": 95,
+
+  "type": ["ICE"],
+  "evolution" :[],
+  "exp_points": 170
+}

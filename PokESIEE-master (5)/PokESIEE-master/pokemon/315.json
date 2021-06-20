@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "vol_vie": 1,
+    "croissance": 1,
+    "mega_sangsue": 10,
+    "feuillemagik": 14
+
+  },
+  "stats": {
+    "attack": 60,
+    "defense": 45,
+    "attack_spe": 100,
+    "defense_spe": 80,
+    "speed": 65
+  },
+  "name": "Roselia",
+  "level": 13,
+  "base_health": 50,
+
+  "type": ["GRASS","POISON"],
+  "evolution" :[407,19],
+  "exp_points": 152
+}

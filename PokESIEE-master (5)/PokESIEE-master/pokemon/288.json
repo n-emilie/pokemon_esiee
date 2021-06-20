@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "griffe": 1,
+    "gros_yeux": 1,
+    "feinte": 1,
+    "attrition": 13,
+    "tranche": 17,
+    "casse_brique": 20
+
+
+  },
+  "stats": {
+    "attack": 110,
+    "defense": 95,
+    "attack_spe": 40,
+    "defense_spe": 95,
+    "speed": 55
+  },
+  "name": "Vigoroth",
+  "level": 15,
+  "base_health":95,
+
+  "type": ["NORMAL"],
+  "evolution" :[289,23],
+  "exp_points": 126
+}

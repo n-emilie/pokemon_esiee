@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "charge": 1,
+    "gros_yeux": 1,
+    "vive_attaque": 5,
+    "morsure": 10,
+    "croc_de_mort": 14
+
+  },
+  "stats": {
+    "attack": 56,
+    "defense": 35,
+    "attack_spe": 25,
+    "defense_spe": 35,
+    "speed": 72
+  },
+  "name": "Rattata",
+  "level": 1,
+  "base_health": 30,
+
+  "type": ["NORMAL"],
+  "evolution" :[20,15],
+  "exp_points": 51
+}

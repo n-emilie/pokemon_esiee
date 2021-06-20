@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "charge": 1,
+    "grondement": 1,
+    "morsure": 7,
+    "belier": 15
+
+  },
+  "stats": {
+    "attack": 55,
+    "defense": 35,
+    "attack_spe": 30,
+    "defense_spe": 30,
+    "speed": 35
+  },
+  "name": "Medhyena",
+  "level": 3,
+  "base_health": 35,
+
+  "type": ["DARK"],
+  "evolution" :[262,18],
+  "exp_points": 55
+}

@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "vol_vie": 1,
+    "croissance": 1,
+    "acide": 7,
+    "mega_sangsue": 12,
+    "tranche_herbe": 14
+
+  },
+  "stats": {
+    "attack": 50,
+    "defense": 55,
+    "attack_spe": 75,
+    "defense_spe": 65,
+    "speed": 30
+  },
+  "name": "Mystherbe",
+  "level": 1,
+  "base_health": 45,
+
+  "type": ["GRASS","POISON"],
+  "evolution" :[44,15],
+  "exp_points": 78
+}

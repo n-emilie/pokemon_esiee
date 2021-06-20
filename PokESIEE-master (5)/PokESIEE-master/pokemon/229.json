@@ -1,0 +1,27 @@
+{
+  "ability": {
+    "flammeche": 1,
+    "gros_yeux": 1,
+    "puredepois": 9,
+    "morsure": 13,
+    "croc_feu": 15,
+    "feinte": 17,
+    "machouille": 20,
+    "lance_flamme": 22,
+    "feu_denfer": 25
+  },
+  "stats": {
+    "attack": 90,
+    "defense": 50,
+    "attack_spe": 110,
+    "defense_spe": 80,
+    "speed": 95
+  },
+  "name": "Demolosse",
+  "level": 18,
+  "base_health":75,
+
+  "type": ["FIRE","DARK"],
+  "evolution" :[],
+  "exp_points": 204
+}

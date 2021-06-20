@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "ecras_face": 1,
+    "gros_yeux": 1,
+    "balayage": 6,
+    "jet_de_pierre": 9
+
+  },
+  "stats": {
+    "attack": 80,
+    "defense": 55,
+    "attack_spe": 25,
+    "defense_spe": 35,
+    "speed": 35
+  },
+  "name": "Charpenti",
+  "level": 1,
+  "base_health": 75,
+
+  "type": ["FIGHTING"],
+  "evolution" :[533,10],
+  "exp_points": 61
+}

@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "etonnement": 1,
+    "chatiment": 1,
+    "choc_mentale": 9,
+    "rafale_psy": 15,
+    "balle_ombre": 20,
+    "represaille": 23,
+    "feu_ensorcele": 25
+
+  },
+  "stats": {
+    "attack": 60,
+    "defense": 60,
+    "attack_spe": 105,
+    "defense_spe": 105,
+    "speed": 105
+  },
+  "name": "Magireve",
+  "level": 19,
+  "base_health": 60,
+
+  "type": ["GHOST"],
+  "evolution" :[],
+  "exp_points": 187
+}

@@ -1,0 +1,28 @@
+{
+  "ability": {
+    "morsure": 1,
+    "gros_yeux": 1,
+    "flammeche": 7,
+    "roue_de_feu": 11,
+    "croc_feu": 14,
+    "belier": 16,
+    "machouille": 20,
+    "lance_flamme": 24,
+    "boutefeu": 30
+
+  },
+  "stats": {
+    "attack": 110,
+    "defense": 80,
+    "attack_spe": 100,
+    "defense_spe": 80,
+    "speed": 95
+  },
+  "name": "Arcanin",
+  "level": 18,
+  "base_health": 90,
+
+  "type": ["FIRE"],
+  "evolution" :[],
+  "exp_points":91
+}

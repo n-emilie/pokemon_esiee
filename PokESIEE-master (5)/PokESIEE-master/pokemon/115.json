@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "morsure": 1,
+    "uppercut": 1,
+    "ultimapoing": 15,
+    "machouille": 20,
+    "coup_bas": 25,
+    "plaquage": 30
+  },
+  "stats": {
+    "attack": 95,
+    "defense": 80,
+    "attack_spe": 40,
+    "defense_spe": 80,
+    "speed": 90
+  },
+  "name": "Kangourex",
+  "level": 1,
+  "base_health": 105,
+
+  "type": ["NORMAL"],
+  "evolution" :[],
+  "exp_points": 175
+}

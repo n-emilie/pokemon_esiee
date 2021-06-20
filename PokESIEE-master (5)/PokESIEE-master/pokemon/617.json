@@ -1,0 +1,22 @@
+{
+  "ability": {
+    "giga_sangsue": 1,
+    "bourdon": 18,
+    "plaie_croix": 21,
+    "bomb_beurk": 25
+  },
+  "stats": {
+    "attack": 70,
+    "defense": 40,
+    "attack_spe": 100,
+    "defense_spe": 60,
+    "speed": 150
+  },
+  "name": "Limaspeed",
+  "level": 1,
+  "base_health": 80,
+
+  "type": ["BUG"],
+  "evolution" :[],
+  "exp_points": 173
+}

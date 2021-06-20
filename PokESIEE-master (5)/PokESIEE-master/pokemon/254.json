@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "ecras_face": 1,
+    "gros_yeux": 1,
+    "vol_vie": 6,
+    "vive_attaque": 9,
+    "mega_sangsue": 11,
+    "giga_sangsue": 16,
+    "lame_feuille": 23,
+    "plaie_croix": 27
+  },
+  "stats": {
+    "attack": 85,
+    "defense": 65,
+    "attack_spe": 105,
+    "defense_spe": 85,
+    "speed": 120
+  },
+  "name": "Jungko",
+  "level": 24,
+  "base_health": 70,
+
+  "type": ["GRASS"],
+  "evolution" :[],
+  "exp_points": 208
+}

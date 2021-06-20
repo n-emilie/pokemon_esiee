@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "griffe": 1,
+    "griffe_acier": 1,
+    "tranche": 1,
+    "eboulement": 16
+
+  },
+  "stats": {
+    "attack": 85,
+    "defense": 40,
+    "attack_spe": 30,
+    "defense_spe": 45,
+    "speed": 70
+  },
+  "name": "Rototaupe",
+  "level": 1,
+  "base_health": 60,
+
+  "type": ["GROUND"],
+  "evolution" :[530,20],
+  "exp_points": 66
+}

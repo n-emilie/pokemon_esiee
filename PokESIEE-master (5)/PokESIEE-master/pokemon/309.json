@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "charge": 1,
+    "gros_yeux": 1,
+    "morsure": 1,
+    "vive_attaque": 1,
+    "etincelle": 14,
+    "croc_elec": 16
+
+  },
+  "stats": {
+    "attack": 45,
+    "defense": 40,
+    "attack_spe": 65,
+    "defense_spe": 40,
+    "speed": 65
+  },
+  "name": "Dynavolt",
+  "level": 1,
+  "base_health":40,
+
+  "type": ["ELECTRIC"],
+  "evolution" :[310,18],
+  "exp_points": 104
+}

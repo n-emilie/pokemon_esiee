@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "charge": 1,
+    "boule_armure": 1,
+    "griffe_acier": 1,
+    "eboulement": 16
+
+  },
+  "stats": {
+    "attack": 70,
+    "defense": 100,
+    "attack_spe": 40,
+    "defense_spe": 40,
+    "speed": 30
+  },
+  "name": "Galekid",
+  "level": 1,
+  "base_health": 50,
+
+  "type": ["ROCK","STEEL"],
+  "evolution" :[305,17],
+  "exp_points": 96
+}

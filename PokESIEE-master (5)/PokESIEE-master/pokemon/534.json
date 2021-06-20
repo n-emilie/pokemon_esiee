@@ -1,0 +1,28 @@
+{
+  "ability": {
+    "ecras_face": 1,
+    "gros_yeux": 1,
+    "balayage": 6,
+    "jet_de_pierre": 9,
+    "reveil_force": 13,
+    "casse_brique": 17,
+    "eboulement": 21,
+    "marto_poing": 25,
+    "lame_de_roc": 27
+
+  },
+  "stats": {
+    "attack": 140,
+    "defense": 95,
+    "attack_spe": 55,
+    "defense_spe": 65,
+    "speed": 45
+  },
+  "name": "Betochef",
+  "level": 20,
+  "base_health": 105,
+
+  "type": ["FIGHTING"],
+  "evolution" :[],
+  "exp_points": 227
+}

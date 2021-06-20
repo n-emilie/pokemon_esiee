@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "charge": 1,
+    "gros_yeux": 1,
+    "eclair": 1,
+    "boule_elec": 14,
+    "coup_de_jus": 16,
+    "rayon_signal": 19
+  },
+  "stats": {
+    "attack": 55,
+    "defense": 55,
+    "attack_spe": 80,
+    "defense_spe": 60,
+    "speed": 45
+  },
+  "name": "Lainergie",
+  "level": 15,
+  "base_health":70,
+
+  "type": ["ELECTRIC"],
+  "evolution" :[181,20],
+  "exp_points": 117
+}

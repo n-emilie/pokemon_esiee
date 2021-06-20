@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "charge": 1,
+    "gros_yeux": 1,
+    "etincelle": 8,
+    "morsure": 11,
+    "machouille": 16,
+    "croc_elec": 20
+
+  },
+  "stats": {
+    "attack": 85,
+    "defense": 49,
+    "attack_spe": 60,
+    "defense_spe": 49,
+    "speed": 60
+  },
+  "name": "Luxio",
+  "level": 13,
+  "base_health": 60,
+
+  "type": ["ELECTRIC"],
+  "evolution" :[405,23],
+  "exp_points": 117
+}

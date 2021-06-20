@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "griffe": 1,
+    "rugissement": 1,
+    "flammeche": 6,
+    "griffe_acier": 8,
+    "croc_feu": 10
+  },
+  "stats": {
+    "attack": 52,
+    "defense": 43,
+    "attack_spe": 60,
+    "defense_spe": 50,
+    "speed": 65
+  },
+  "name": "Salameche",
+  "level": 1,
+  "base_health": 39,
+
+  "type": ["FIRE"],
+  "evolution" :[5,12],
+  "exp_points": 65
+}

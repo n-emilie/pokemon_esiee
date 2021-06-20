@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "flammeche": 1,
+    "etonnement": 1,
+    "puredepois": 9,
+    "danseflamme": 12,
+    "chatiment": 14
+
+  },
+  "stats": {
+    "attack": 30,
+    "defense": 55,
+    "attack_spe": 65,
+    "defense_spe": 55,
+    "speed": 20
+  },
+  "name": "Funecire",
+  "level": 1,
+  "base_health":50,
+
+  "type": ["GHOST","FIRE"],
+  "evolution" :[608,15],
+  "exp_points": 55
+}

@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "griffe": 1,
+    "boule_armure": 1,
+    "dard_venin": 1,
+    "pietisol": 1,
+    "tranche": 15
+  },
+  "stats": {
+    "attack": 75,
+    "defense": 85,
+    "attack_spe": 20,
+    "defense_spe": 30,
+    "speed": 40
+  },
+  "name": "Sabelette",
+  "level": 1,
+  "base_health":50,
+
+  "type": ["GROUND"],
+  "evolution" :[28,18],
+  "exp_points": 93
+}

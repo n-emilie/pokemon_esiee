@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "charge": 1,
+    "rugissement": 1,
+    "ecume": 6,
+    "picpic": 9,
+    "bulle_do": 11
+  },
+  "stats": {
+    "attack": 51,
+    "defense": 53,
+    "attack_spe": 61,
+    "defense_spe": 56,
+    "speed": 40
+  },
+  "name": "Tiplouf",
+  "level": 1,
+  "base_health": 53,
+
+  "type": ["WATER"],
+  "evolution" :[394,12],
+  "exp_points": 66
+}

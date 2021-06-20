@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "charge": 1,
+    "morsure": 1,
+    "gros_yeux": 1,
+    "pietisol": 1,
+    "belier": 18,
+    "eboulement": 20,
+    "machouille": 23,
+    "seisme": 26
+  },
+  "stats": {
+    "attack": 112,
+    "defense": 118,
+    "attack_spe": 68,
+    "defense_spe": 72,
+    "speed": 47
+  },
+  "name": "Hippodocus",
+  "level": 19,
+  "base_health": 108,
+
+  "type": ["GROUND"],
+  "evolution" :[],
+  "exp_points": 198
+}

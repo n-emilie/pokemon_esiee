@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "vol_vie": 1,
+    "croissance": 1,
+    "mega_sangsue": 10,
+    "feuillemagik": 14,
+    "giga_sangsue": 20,
+    "tempete_florale": 23,
+    "bomb_beurk": 26
+
+  },
+  "stats": {
+    "attack": 70,
+    "defense": 75,
+    "attack_spe": 125,
+    "defense_spe": 105,
+    "speed": 90
+  },
+  "name": "Roserade",
+  "level": 19,
+  "base_health": 60,
+
+  "type": ["GRASS","POISON"],
+  "evolution" :[],
+  "exp_points": 207
+}

@@ -1,0 +1,123 @@
+﻿Nom;name;Type;Kind;description;pp;power;accuracy;self_dmg
+griffe;Griffe ;NORMAL;PHYSICAL;Le lanceur attaque avec ses griffes;35;40;1;0
+rugissement;Rugissement;NORMAL;STATUS;Le lanceur rugit avec son cri sur l'ennemi ce qui baisse son attaque d'un cran ;40;0;1;0
+flammeche;Flammèche;FIRE;SPECIAL;L'ennemie est attaquée par une faible flamme.  10% de chance d'infliger la brulure .;25;40;1;0
+griffe_acier;Griffe acier;STEEL;PHYSICAL;Le lanceur durcit ses griffes pour attaquer l'ennemie. 10% de chance d'augmenter l'attaque du lanceur d'un cran ;35;60;0.95;0
+croc_feu;Croc feu;FIRE;PHYSICAL;Le lanceur embrase ses croc pour modre l'ennemie. 10% de chance d'infliger la brulure.;15;65;0.95;0
+tranche;Tranche ;NORMAL;PHYSICAL;un coup de griffe ou autre tranche l'ennemie.;20;70;1;0
+lance_flamme;Lance-flamme;FIRE;SPECIAL;Le lanceur deferle un torrent de flamme sur l'ennemie. 10% de chance d'infliger la brulure.;15;90;1;0
+boutefeu;Boutefeu;FIRE;PHYSICAL;Le lanceur s'embrase et fonce violement sur sa cible. Inflige aussi des degats au lanceur.;15;120;1;-0.33
+ecras_face;Ecras'face;NORMAL;PHYSICAL;Ecrase l'ennemie avec les pattes ou la queue.;35;40;1;0
+gros_yeux;Gros'yeux;NORMAL;STATUS;Intimide l'ennemie d'un regarde ce qui lui fais baisser sa defense d'un cran.;40;0;1;0
+vol_vie;Vol-vie;GRASS;SPECIAL;Draine la vie de l'ennemie ce qui en redonne au lanceur.;25;20;1;0.5
+vive_attaque;vive-attaque;NORMAL;PHYSICAL;Le lanceur attaque rapidement l'ennemie.;30;50;1;0
+mega_sangsue;Méga_sangsue;GRASS;SPECIAL;Draine l'energie de l'ennemie et redonne de la vie au lanceur.;15;40;1;0.5
+giga_sangsue;Giga_sangsue;GRASS;SPECIAL;Draine l'énergie vitale de l'ennemie et en redonne au lanceur.;15;60;1;0.5
+lame_feuille;Lame-feuille;GRASS;PHYSICAL;Une feuille coupante comme une lame entaille l'ennemie.;15;75;1;0
+plaie_croix;Plaie-croix;BUG;PHYSICAL;Le lanceur taillade l'ennemi en utilisant ses faux ou ses griffes comme une paire de ciseaux.;15;80;1;0
+charge;Charge;NORMAL;PHYSICAL;le lanceur charge sur l'ennemie.;35;40;1;0
+ecume;Ecume;WATER;SPECIAL;Une attaque de bulle. 10% de chance de baisser la vitesse ennemie.;30;40;1;0
+picpic;Picpic;FLYING;PHYSICAL;Frappe l'ennemi d'un bec pointu ou d'une corne pour infliger des dégâts.;30;35;1;0
+bulle_do;Bulle d'o;WATER;SPECIAL;Des bulles sont envoyées avec puissance sur l'ennemi. 20% de chance de baisser la vitesse ennemie.;20;65;1;0
+saumure;Saumure;WATER;SPECIAL;Attaque qui voit sa puissance doublé si les pv du lanceur sont en dessous de 50%.;10;65;1;0
+bec_vrille;Bec vrille;FLYING;PHYSICAL;Une attaque utilisant le bec comme une perceuse.;20;80;1;0
+tete_de_fer;Tete de fer;STEEL;PHYSICAL;Le lanceur durcit sa tete pour ensuite mettre un coup de boule avec.;15;80;1;0
+hydrocanon;Hydrocanon;WATER;SPECIAL;Un puissant jet d'eau est projeté sur l'ennemie.;5;110;0.8;0
+tornade;Tornade;FLYING;SPECIAL;Le lanceur bat des ailes pour générer une bourrasque qui blesse l'ennemi.;35;40;1;0
+ouragan;Ouragan;FLYING;SPECIAL;Déclenche un terrible ouragan sur l'ennemie.;35;40;1;0
+cru_aile;Cru-aile;FLYING;PHYSICAL;L'ennemi est frappé par de larges ailes déployées pour infliger des dégâts.;35;65;1;0
+lame_dair;Lame d'air;FLYING;SPECIAL;Le lanceur attaque avec une lame d'air qui fend tout. ;15;75;0.9;0
+vent_violent;Vent violent;FLYING;SPECIAL;Le lanceur déclenche une tempête de vents violents qui s'abat sur l'ennemi.;10;110;0.75;0
+morsure;Morsure;DARK;PHYSICAL;Le lanceur mort l'ennemie avec ses crocs.;25;60;1;0
+croc_de_mort;Croc de mort;NORMAL;PHYSICAL;Le lanceur mord l'ennemi à l'aide de ses incisives aiguisées.;15;80;0.9;0
+machouille;Machouille;DARK;PHYSICAL;Le lanceur machouille l'ennemie avec ses crocs.;15;80;1;0
+coup_bas;Coup bas ;DARK;PHYSICAL;Le lanceur prepare un mauvais coup rapide a l'ennemie.;5;70;1;0
+damocles;Damocles;NORMAL;PHYSICAL;Le lanceur jette violement son corps sur l'ennemie et s'inflige des degats.;10;120;1;-0.33
+eclair;Eclair;ELECTRIC;SPECIAL;Produit un eclair qui s'abat sur l'ennemie.;30;40;1;0
+boule_elec;Boule elec;ELECTRIC;SPECIAL;Le lanceur envoie une boule d'électricité. Si sa vitesse est plus grande que l'ennemie, la puissance est doublé.;10;50;1;0
+etincelle;Etincelle;ELECTRIC;PHYSICAL;Lance une charge electrique sur l'ennemie. 10% de chance d'infliger la paralysie.;20;65;1;0
+tonnerre;Tonnerre;ELECTRIC;SPECIAL;Une grosse decharge electrique s'abat sur l'ennemie. 10% de chance d'infliger la paralysie. ;15;90;1;0
+fatal_foudre;Fatal-foudre;ELECTRIC;SPECIAL;Le lanceur fait s'abbatre la foudre sur l'ennemie. 15% de chance d'infliger la paralysie.;10;110;75;0
+grondement;Grondement ;DARK;STATUS;Le lanceur montre sa puissance d'un grondement. Augmente son attaque d'un cran.;15;0;0.95;0
+belier;Bélier;NORMAL;PHYSICAL;Une charge violente qui blesse aussi le lanceur  d' 1/4 des degats qu'il a infligé.;20;90;0.85;-0.25
+roue_de_feu;Roue de feu;FIRE;PHYSICAL;Le lanceur s'entoure de feu et charge l'ennemie. 10% d'infliger la brulure.;25;60;1;0
+double_pied;Double pied;FIGHTING;PHYSICAL;Le lanceur attaque avec son pied deux fois.;30;40;1;0
+croissance;Croissance ;GRASS;STATUS;Le corps du lanceur se developpe pour augmenter attaque et attaque spe d'un cran.;20;0;1;0
+acide;Acide;POISON;SPECIAL;Le lanceur attaque l'ennemi avec un jet d'acide corrosif. 10% de chance de baiser la defense spe ennemie.;30;40;1;0
+tranche_herbe;Tranch'herbe;GRASS;PHYSICAL;Des feuilles aiguisées comme des rasoirs entaillent l'ennemi.;25;55;0.95;0
+tempete_florale;Tempete florale;GRASS;PHYSICAL;Déclenche une violente tempête de fleurs qui inflige des dégâts.;15;90;1;0
+bomb_beurk;Bomb-beurk;POISON;SPECIAL;Des détritues toxics sont projetes sur l'ennemie. 30% de chance d'empoisonner.;10;90;1;0
+boule_armure;Boule'armure;NORMAL;STATUS;Le lanceur se met en boule et augmente sa defense d'un cran.;30;0;1;0
+jet_de_pierre;Jet de pierre;ROCK;PHYSICAL;Une pierre tombe sur l'ennemie.;15;50;0.9;0
+souplesse;Souplesse;NORMAL;PHYSICAL;Fouette l'ennemi avec la queue ou une liane, par exemple, pour infliger des dégâts.;20;80;0.75;0
+pietisol;Piétisol;GROUND;PHYSICAL;Le lanceur piétine le sol et inflige des dégâts à tous les Pokémon autour de lui.;20;60;1;0
+seisme;Séisme;GROUND;PHYSICAL;Le lanceur provoque un tremblement de terre qui inflige de gros degats a l'ennemie.;10;100;1;0
+dard_venin;Dard-venin;POISON;PHYSICAL;Le lanceur projette une dard gorgée de venin. 30% de chance d'infliger l'empoisennement ;35;15;1;0
+crochet_venin;Crochet venin ;POISON;PHYSICAL;Le lanceur mord l'ennemi de ses crocs toxiques. 30% de chance d'empoisonner.;15;60;1;0
+telluriforce;Telluriforce ;GROUND;SPECIAL;De terribles seismes secouent l'ennemie. 10% de chance de baisser la defense spe de l'ennemie.;10;90;1;0
+surpuissance;Surpuissance ;FIGHTING;PHYSICAL;Une puissante attaque mais qui baisse la defense et defense spe du lanceur.;5;120;1;0
+coup_dkorne;Coup d'corne ;NORMAL;PHYSICAL;le lanceur donne un coup avec sa corne  a  l'ennemie.;25;65;1;0
+direct_toxic;Direct toxic ;POISON;PHYSICAL;Attaque l'ennemi avec un tentacule, un bras, ou un autre membre plein de poison. 30% de chance d'empoisonner.;20;80;1;0
+megacorne;Mégacorne;BUG;PHYSICAL;Le lanceur utilise ses gigantesques cornes pour charger l'ennemi.;10;120;0.85;0
+detricanon;Détricanon;POISON;PHYSICAL;Le lanceur envoie des détritus sur l'ennemi. 30% de chance d'empoisonner.;5;120;0.8;0
+croc_elec;Croc élec;ELECTRIC;PHYSICAL;Le lanceur utilise une morsure électrifiée. 10% de chance d'infliger la paralysie.;15;65;0.95;0
+coup_de_jus;Coup de jus ;ELECTRIC;SPECIAL;Un flamboiement d'électricité frappe l'ennemie. 30% de chance d'infliger la paralysie.;15;80;1;0
+aeropique;Aeropique ;FLYING;PHYSICAL;Le lanceur prend l'ennemi de vitesse et le lacère.;20;60;1;0
+rapace;Rapace ;FLYING;PHYSICAL;Le lanceur replie ses ailes et charge en rase-mottes. Inflige 1/3 des degats au lanceurs ;15;120;1;-0.33
+balayage;Balayage;FIGHTING;PHYSICAL;Un puissant coup de pied bas qui fauche l'ennemi. Inflige des degats en fct du niveau du pokemon.;25;10;1;0
+reveil_force;Reveil forcé;FIGHTING;PHYSICAL;Le lanceur gifle le pokemon ennemie comme pour le reveiller.;20;70;1;0
+casse_brique;Casse-brique ;FIGHTING;PHYSICAL;Le lanceur attaque avec le tranchant de la main. ;15;75;1;0
+eboulement;Eboulement ;ROCK;PHYSICAL;Envoie de gros rochers sur l'ennemi pour infliger des dégâts.;10;75;0.9;0
+marto_poing;Marto poing ;FIGHTING;PHYSICAL;Le lanceur donne un puissant coup de poing à l'ennemi. Réduit la Vitesse du lanceur d'un cran.;10;100;0.9;0
+lame_de_roc;Lame de roc;ROCK;PHYSICAL;Fait surgir des pierres aiguisées sous l'ennemi.;5;100;0.8;0
+lechouille;Léchouille;GHOST;PHYSICAL;Un grand coup de langue qui inflige des dégâts à l'ennemi. 30% de chance d'infliger la paralysie ;30;30;1;0
+puredepois;Purédepois;POISON;SPECIAL;Le lanceur attaque à l'aide d'une éruption de gaz répugnants. 50% de chance d'empoisonner.;20;30;0.7;0
+ombre_nocturne;Ombre nocturne ;GHOST;SPECIAL;Le lanceur invoque un mirage. ;15;60;1;0
+represaille;Represaille;DARK;PHYSICAL;Le lanceur charge son énergie, puis attaque. La puissance est doublée si le lanceur a une vitesse plus petite que l'ennemie.;10;50;1;0
+poing_ombre;Poing ombre;GHOST;PHYSICAL;Le lanceur surgit des ombres et donne un coup de poing.;20;60;1;0
+vibrobscure;Vibrobscure;DARK;SPECIAL;Le lanceur dégage une horrible aura chargée de pensées maléfiques. ;15;80;1;0
+balle_ombre;Balle'ombre;GHOST;SPECIAL;Projette une grande ombre sur l'ennemi. 10% de chance de baisser la def spe de l'ennemie.;15;80;1;0
+etonnement;Etonnement ;GHOST;PHYSICAL;Le lanceur attaque l'ennemi en poussant un cri terrifiant.;30;30;1;0
+chatiment;Chatiment ;GHOST;SPECIAL;Attaque acharnée qui cause davantage de dégâts à l'ennemi s'il a un problème de statut. (degat double);10;65;1;0
+choc_mentale;Choc mentale ;PSYCHIC;SPECIAL;Une faible vague télékinétique frappe l'ennemi.;25;50;1;0
+rafale_psy;Rafale psy;PSYCHIC;SPECIAL;Un étrange rayon frappe l'ennemi.;20;65;1;0
+feu_ensorcele;Feu ensorcelé;FIRE;SPECIAL;Attaque avec des flammes brûlantes soufflées de la bouche du lanceur. Diminue l'Attaque Spéciale de l'ennemi d'un cran.;10;75;1;0
+ombre_portee;Ombre portée;GHOST;SPECIAL;Le lanceur étend son ombre pour frapper par-derrière.;30;50;1;0
+poing_feu;Poing feu ;FIRE;PHYSICAL;Un coup de poing enflammé vient frapper l'ennemi. 10% de chance d'infliger la brulure.;15;75;1;0
+poing_glace;Poing glace ;ICE;PHYSICAL;Un coup de poing glacé vient frapper l'ennemi. 10% de chance de geler.;15;75;1;0
+poing_elec;Poing elec;ELECTRIC;PHYSICAL;Un coup de poing electrifié vient frapper l'ennemi. 10% de chance d'infliger la paralysie.;15;75;1;0
+explonuit;Explonuit;DARK;SPECIAL;Le lanceur attaque l'ennemi avec une onde de choc ténébreuse. 10% de chance de baisser l'attaque ennemie.;10;85;0.9;0
+feuillemagik;Feuillemagik;GRASS;SPECIAL;Le lanceur disperse d'étranges feuilles qui poursuivent l'ennemi.;20;60;1;0
+queue_poison;Queue-poison;POISON;PHYSICAL;Balaye l'ennemie avec une queue rempli de poison.;25;50;1;0
+piqure;Piqure;BUG;PHYSICAL;Le lanceur pique l'ennemie.;20;60;1;0
+buldoboule;Buldoboule;BUG;PHYSICAL;Le lanceur se roule en boule et écrase son ennemi.;15;65;1;0
+feinte;Feinte;DARK;PHYSICAL;Le lanceur ruse pour feinte l'ennemie et l'attaque ensuite.;20;60;1;0
+tranche_nuit;Tranche nuit ;DARK;PHYSICAL;Le lanceur lacère l'ennemi à la première occasion. ;15;70;1;0
+dard_nuee;Dard nuée;BUG;PHYSICAL;Envoie une rafale de dards.;20;60;0.95;0
+poison_croix;Poison croix;POISON;PHYSICAL;Un coup tranchant qui peut empoisonner l'ennemi.  10% de chance d'empoisonner.;20;70;1;0
+feu_denfer;Feu d'enfer;FIRE;SPECIAL;L'ennemi est entouré d'un torrent de flammes ardentes qui le brûlent obligatoirement.;5;100;0.5;0
+danseflamme;Danseflamme;FIRE;SPECIAL;Des flammes tournent autour de l'ennemie.;20;50;1;0
+rebondifeu;Rebondifeu;FIRE;SPECIAL;Une flamme projete qui explose en plusieur petite flamme.;15;70;1;0
+vendetta;Vendetta;FIGHTING;PHYSICAL;Le lanceur se venge de l'adversaire avec un puissant coup montant. Degat double si le lanceur attaque en second.;20;60;1;0
+peignee;Peignee;NORMAL;PHYSICAL;Le lanceur donne un coup avec sa tête couronnée d'une fière crinière. Inflige aussi 1/4 des degats au lanceur.;15;120;1;-0.25
+facade;Façade;NORMAL;PHYSICAL;Attaque qui inflige le double de degats le lanceur est affecte par un probleme de status.;20;70;1;0
+close_combat;Close combat ;FIGHTING;PHYSICAL;Le lanceur combat au corps à corps sans se protéger. Baisse aussi sa Défense et sa Défense Spéciale.;5;120;1;0
+attrition;Attrition;NORMAL;PHYSICAL;Une attaque puissante quand l’ennemi baisse sa garde.;20;70;1;0
+rayon_signal;Rayon signal ;BUG;SPECIAL;Un étrange rayon...;15;75;1;0
+plaquage;Plaquage;NORMAL;PHYSICAL;Le lanceur se laisse tombre sur l'ennemie de tout son poids. 30% de chance d'infliger la paralysie.;15;85;1;0
+tunnelier;Tunnelier;GROUND;PHYSICAL;Le lanceur tourne sur lui-même comme une perceuse et se jette sur l'ennemi.;10;85;0.9;0
+queue_de_fer;Queue de fer;STEEL;PHYSICAL;Le lanceur durcit sa queue pour balayer l'ennemie avec. 30% de chance de baisser la defense ennemie.;15;100;0.75;0
+uppercut;Uppercut;NORMAL;PHYSICAL;Un coup de poing cadencé.;15;70;1;0
+ultimapoing;Ultimapoing;NORMAL;PHYSICAL;L'ennemi reçoit un coup de poing d'une puissance incroyable.;15;80;0.85;0
+tomberoche;Tomberoche ;ROCK;PHYSICAL;Des rochers frappent l'ennemi. Réduit aussi sa Vitesse d'un cran.;15;60;0.95;0
+psyko;Psyko;PSYCHIC;SPECIAL;Une puissante force télékinétique frappe l'ennemi. 10% de chance de baisser la def spe de l'ennemie.;10;90;1;0
+vibraqua;Vibraqua;WATER;SPECIAL;Le lanceur envoie un puissant jet d'eau sur l'ennemi.;20;60;1;0
+laser_glace;Laser glace ;ICE;SPECIAL;Lance un laser gelé sur l'ennemie. 10% de chance de geler.;15;90;1;0
+blizzard;Blizzard;ICE;SPECIAL;Deferle une tempe de glace sur le terrain. 20% de chance de geler.;5;110;0.7;0
+bourdon;Bourdon;BUG;SPECIAL;Le lanceur fait vibrer son corps pour lancer une vague sonique. 10% de chance de baisser la Défense Spéciale de l'ennemi.;10;90;1;0
+chute_de_glace;Chute de glace ;ICE;PHYSICAL;Envoie de gros blocs de glace sur l'ennemi pour lui infliger des dégâts. 30% de chance de baisser la defense ennemie.;10;80;0.95;0
+vent_glace;Vent glace ;ICE;SPECIAL;Un vent du nord tellment froid qu'il fait baisser la vitesse de l'ennemie d'un cran.;25;55;0.95;0
+croc_givre;Croc givre;ICE;PHYSICAL;Le lanceur utilise une morsure glaciale. 15% de chance de geler.;15;65;0.95;0
+roc_boulet;Roc boulet ;ROCK;PHYSICAL;Le lanceur attaque en projetant un gros rocher sur l'ennemi.;5;120;0.7;0
+acrobatie;Acrobatie;FLYING;PHYSICAL;Le lanceur virevolt dans les airs en frappant l'ennemie. Si celui si a une vitesse plus grande que l'ennemie les degats sont doubles.;20;65;1;0
+hydro_queue;Hydro queue;WATER;PHYSICAL;Le lanceur attaque en balançant sa queue comme une lame de fond en pleine tempête.;16;90;0.9;0

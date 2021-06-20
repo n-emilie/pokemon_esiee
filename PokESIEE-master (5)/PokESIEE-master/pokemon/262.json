@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "charge": 1,
+    "grondement": 1,
+    "morsure": 7,
+    "belier": 15,
+    "machouille": 20,
+    "coup_bas": 23
+
+  },
+  "stats": {
+    "attack": 90,
+    "defense": 70,
+    "attack_spe": 60,
+    "defense_spe": 60,
+    "speed": 70
+  },
+  "name": "Grahyena",
+  "level": 18,
+  "base_health": 70,
+
+  "type": ["DARK"],
+  "evolution" :[],
+  "exp_points":128
+}

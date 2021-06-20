@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "charge": 1,
+    "gros_yeux": 1,
+    "eclair": 1,
+    "boule_elec": 14
+
+  },
+  "stats": {
+    "attack": 40,
+    "defense": 40,
+    "attack_spe": 65,
+    "defense_spe": 45,
+    "speed": 35
+  },
+  "name": "Wattouat",
+  "level": 1,
+  "base_health":55,
+
+  "type": ["ELECTRIC"],
+  "evolution" :[180,15],
+  "exp_points": 59
+}

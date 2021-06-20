@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "dard_venin": 1,
+    "boule_armure": 1,
+    "queue_poison": 9,
+    "piqure": 11
+
+  },
+  "stats": {
+    "attack": 45,
+    "defense": 60,
+    "attack_spe": 30,
+    "defense_spe": 40,
+    "speed": 57
+  },
+  "name": "Venipatte",
+  "level": 1,
+  "base_health": 30,
+
+  "type": ["BUG","POISON"],
+  "evolution" :[544,12],
+  "exp_points": 52
+}

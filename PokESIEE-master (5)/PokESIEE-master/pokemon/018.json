@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "charge": 1,
+    "tornade": 5,
+    "vive_attaque": 7,
+    "ouragan": 9,
+    "cru_aile": 13,
+    "lame_dair": 23,
+    "vent_violent":28
+  },
+  "stats": {
+    "attack": 80,
+    "defense": 75,
+    "attack_spe": 70,
+    "defense_spe": 70,
+    "speed": 101
+  },
+  "name": "Roucarnage",
+  "level": 20,
+  "base_health": 83,
+
+  "type": ["NORMAL","FLYING"],
+  "evolution" :[],
+  "exp_points": 216
+}

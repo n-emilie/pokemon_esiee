@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "ecras_face": 1,
+    "gros_yeux": 1,
+    "vol_vie": 6,
+    "vive_attaque": 9,
+    "mega_sangsue": 11,
+    "giga_sangsue": 16,
+    "lame_feuille": 23
+
+  },
+  "stats": {
+    "attack": 65,
+    "defense": 45,
+    "attack_spe": 85,
+    "defense_spe": 65,
+    "speed": 95
+  },
+  "name": "Massko",
+  "level": 12,
+  "base_health": 50,
+
+  "type": ["GRASS"],
+  "evolution" :[254,24],
+  "exp_points": 141
+}

@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "charge": 1,
+    "gros_yeux": 1,
+    "etincelle": 8,
+    "morsure": 11
+
+  },
+  "stats": {
+    "attack": 65,
+    "defense": 34,
+    "attack_spe": 40,
+    "defense_spe": 34,
+    "speed": 45
+  },
+  "name": "Lixy",
+  "level": 1,
+  "base_health": 45,
+
+  "type": ["ELECTRIC"],
+  "evolution" :[404,13],
+  "exp_points": 60
+}

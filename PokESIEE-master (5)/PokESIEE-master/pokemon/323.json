@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "charge": 1,
+    "flammeche": 1,
+    "gros_yeux": 1,
+    "telluriforce": 16,
+    "rebondifeu": 19,
+    "seisme": 22,
+    "lance_flamme": 25
+
+  },
+  "stats": {
+    "attack": 100,
+    "defense": 70,
+    "attack_spe": 105,
+    "defense_spe": 75,
+    "speed": 40
+  },
+  "name": "Camerupt",
+  "level": 18,
+  "base_health": 70,
+
+  "type": ["GROUND","FIRE"],
+  "evolution" :[],
+  "exp_points": 175
+}

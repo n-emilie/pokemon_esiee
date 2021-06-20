@@ -1,0 +1,27 @@
+{
+  "ability": {
+    "charge": 1,
+    "gros_yeux": 1,
+    "vive_attaque": 5,
+    "morsure": 10,
+    "croc_de_mort": 14,
+    "machouille": 19,
+    "coup_bas": 25,
+    "damocles": 30
+
+  },
+  "stats": {
+    "attack": 81,
+    "defense": 60,
+    "attack_spe": 50,
+    "defense_spe": 70,
+    "speed": 97
+  },
+  "name": "Rattatac",
+  "level": 15,
+  "base_health": 55,
+
+  "type": ["NORMAL"],
+  "evolution" :[],
+  "exp_points": 116
+}

@@ -1,0 +1,27 @@
+{
+  "ability": {
+    "charge": 1,
+    "boule_armure": 1,
+    "griffe_acier": 1,
+    "eboulement": 16,
+    "queue_de_fer": 18,
+    "tete_de_fer" : 21,
+    "lame_de_roc": 24,
+    "seisme" : 27
+
+  },
+  "stats": {
+    "attack": 110,
+    "defense": 180,
+    "attack_spe": 60,
+    "defense_spe": 60,
+    "speed": 50
+  },
+  "name": "Galeking",
+  "level": 22,
+  "base_health": 70,
+
+  "type": ["ROCK","STEEL"],
+  "evolution" :[],
+  "exp_points": 205
+}

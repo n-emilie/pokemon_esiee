@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "griffe": 1,
+    "boule_armure": 1,
+    "dard_venin": 1,
+    "pietisol": 1,
+    "tranche": 15,
+    "seisme": 20
+  },
+  "stats": {
+    "attack": 100,
+    "defense": 110,
+    "attack_spe": 45,
+    "defense_spe": 55,
+    "speed": 65
+  },
+  "name": "Sablaireau",
+  "level": 18,
+  "base_health":75,
+
+  "type": ["GROUND"],
+  "evolution" :[],
+  "exp_points": 163
+}

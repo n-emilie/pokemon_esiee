@@ -1,0 +1,28 @@
+{
+  "ability": {
+    "griffe": 1,
+    "gros_yeux": 1,
+    "feinte": 1,
+    "griffe_acier": 14,
+    "tranche": 16,
+    "tete_de_fer": 20,
+    "tranche_nuit": 22,
+    "plaie_croix": 24
+
+
+  },
+  "stats": {
+    "attack": 125,
+    "defense": 100,
+    "attack_spe": 60,
+    "defense_spe": 70,
+    "speed": 70
+  },
+  "name": "Scalproie",
+  "level": 19,
+  "base_health":65,
+
+  "type": ["STEEL","DARK"],
+  "evolution" :[],
+  "exp_points": 172
+}

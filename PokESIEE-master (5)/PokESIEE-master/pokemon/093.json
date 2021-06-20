@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "lechouille": 1,
+    "puredepois": 1,
+    "ombre_nocturne": 6,
+    "coup_bas": 9,
+    "represaille": 12,
+    "poing_ombre": 19,
+    "vibrobscure": 21
+
+  },
+  "stats": {
+    "attack": 50,
+    "defense": 45,
+    "attack_spe": 115,
+    "defense_spe": 55,
+    "speed": 95
+  },
+  "name": "Spectrum",
+  "level": 17,
+  "base_health": 45,
+
+  "type": ["GHOST","POISON"],
+  "evolution" :[94,22],
+  "exp_points": 126
+}

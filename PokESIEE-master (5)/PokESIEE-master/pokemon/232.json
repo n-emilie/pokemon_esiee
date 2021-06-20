@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "charge": 1,
+    "boule_armure": 1,
+    "belier": 9,
+    "jet_de_pierre": 12,
+    "souplesse": 15,
+    "pietisol": 19,
+    "seisme": 24
+
+  },
+  "stats": {
+    "attack": 120,
+    "defense": 120,
+    "attack_spe": 60,
+    "defense_spe": 60,
+    "speed": 50
+  },
+  "name": "Donphan",
+  "level": 18,
+  "base_health": 90,
+
+  "type": ["GROUND"],
+  "evolution" :[],
+  "exp_points": 189
+}

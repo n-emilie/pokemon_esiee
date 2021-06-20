@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "charge": 1,
+    "gros_yeux": 1,
+    "vive_attaque": 1,
+    "cru_aile": 1,
+    "aeropique": 16,
+    "belier": 20
+
+  },
+  "stats": {
+    "attack": 75,
+    "defense": 50,
+    "attack_spe": 40,
+    "defense_spe": 40,
+    "speed": 80
+  },
+  "name": "Etourvol",
+  "level": 14,
+  "base_health":55,
+
+  "type": ["FLYING","NORMAL"],
+  "evolution" :[398,21],
+  "exp_points": 113
+}

@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "etonnement": 1,
+    "chatiment": 1,
+    "choc_mentale": 9,
+    "rafale_psy": 15
+
+  },
+  "stats": {
+    "attack": 60,
+    "defense": 60,
+    "attack_spe": 85,
+    "defense_spe": 85,
+    "speed": 85
+  },
+  "name": "Feuforeve",
+  "level": 1,
+  "base_health": 60,
+
+  "type": ["GHOST"],
+  "evolution" :[429,19],
+  "exp_points": 147
+}

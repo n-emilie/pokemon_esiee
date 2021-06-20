@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "morsure": 1,
+    "gros_yeux": 1,
+    "pietisol": 15,
+    "machouille": 18,
+    "seisme": 23,
+    "lame_de_roc": 25
+
+  },
+  "stats": {
+    "attack": 117,
+    "defense": 80,
+    "attack_spe": 65,
+    "defense_spe": 70,
+    "speed": 92
+  },
+  "name": "Crocorible",
+  "level": 22,
+  "base_health": 95,
+
+  "type": ["GROUND","DARK"],
+  "evolution" :[],
+  "exp_points": 229
+}

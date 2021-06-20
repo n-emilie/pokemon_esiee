@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "charge": 1,
+    "flammeche": 1,
+    "gros_yeux": 1,
+    "telluriforce": 16
+
+  },
+  "stats": {
+    "attack": 60,
+    "defense": 40,
+    "attack_spe": 65,
+    "defense_spe": 45,
+    "speed": 35
+  },
+  "name": "Chamallot",
+  "level": 1,
+  "base_health": 60,
+
+  "type": ["GROUND","FIRE"],
+  "evolution" :[323,18],
+  "exp_points": 88
+}

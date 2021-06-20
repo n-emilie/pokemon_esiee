@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "charge": 1,
+    "tornade": 5,
+    "vive_attaque": 7,
+    "ouragan": 9,
+    "cru_aile": 13
+
+  },
+  "stats": {
+    "attack": 60,
+    "defense": 55,
+    "attack_spe": 50,
+    "defense_spe": 50,
+    "speed": 71
+  },
+  "name": "Roucoops",
+  "level": 10,
+  "base_health": 63,
+
+  "type": ["NORMAL","FLYING"],
+  "evolution" :[18,20],
+  "exp_points": 113
+}

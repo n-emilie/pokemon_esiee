@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "griffe": 1,
+    "gros_yeux": 1,
+    "double_pied": 7,
+    "dard_venin": 9,
+    "morsure": 12,
+    "machouille": 16
+
+  },
+  "stats": {
+    "attack": 62,
+    "defense": 67,
+    "attack_spe": 55,
+    "defense_spe": 55,
+    "speed": 56
+  },
+  "name": "Nidorina",
+  "level": 10,
+  "base_health": 70,
+
+  "type": ["POISON"],
+  "evolution" :[31,20],
+  "exp_points":117
+}

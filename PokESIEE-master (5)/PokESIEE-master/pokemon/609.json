@@ -1,0 +1,27 @@
+{
+  "ability": {
+    "flammeche": 1,
+    "etonnement": 1,
+    "puredepois": 9,
+    "danseflamme": 12,
+    "chatiment": 14,
+    "rebondifeu": 17,
+    "lance_flamme": 22,
+    "balle_ombre": 24,
+    "feu_denfer": 26
+  },
+  "stats": {
+    "attack": 55,
+    "defense": 90,
+    "attack_spe": 145,
+    "defense_spe": 90,
+    "speed": 80
+  },
+  "name": "Lugulabre",
+  "level": 21,
+  "base_health":60,
+
+  "type": ["GHOST","FIRE"],
+  "evolution" :[],
+  "exp_points": 234
+}

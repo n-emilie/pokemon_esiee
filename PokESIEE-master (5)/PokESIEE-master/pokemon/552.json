@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "morsure": 1,
+    "gros_yeux": 1,
+    "pietisol": 15,
+    "machouille": 18
+
+  },
+  "stats": {
+    "attack": 82,
+    "defense": 45,
+    "attack_spe": 45,
+    "defense_spe": 45,
+    "speed": 74
+  },
+  "name": "Escroco",
+  "level": 17,
+  "base_health": 60,
+
+  "type": ["GROUND","DARK"],
+  "evolution" :[553,22],
+  "exp_points": 123
+}

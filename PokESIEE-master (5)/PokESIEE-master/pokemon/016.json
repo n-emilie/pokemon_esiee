@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "charge": 1,
+    "tornade": 5,
+    "vive_attaque": 7,
+    "ouragan": 9
+
+  },
+  "stats": {
+    "attack": 45,
+    "defense": 40,
+    "attack_spe": 35,
+    "defense_spe": 35,
+    "speed": 56
+  },
+  "name": "Roucool",
+  "level": 1,
+  "base_health": 40,
+
+  "type": ["NORMAL","FLYING"],
+  "evolution" :[17,10],
+  "exp_points": 55
+}

@@ -1,0 +1,28 @@
+{
+  "ability": {
+    "charge": 1,
+    "rugissement": 1,
+    "ecume": 6,
+    "picpic": 9,
+    "bulle_do": 11,
+    "griffe_acier": 13,
+    "saumure": 19,
+    "bec_vrille": 22,
+    "tete_de_fer": 25,
+    "hydrocanon": 28
+  },
+  "stats": {
+    "attack": 86,
+    "defense": 88,
+    "attack_spe": 111,
+    "defense_spe": 101,
+    "speed": 60
+  },
+  "name": "Pingoleon",
+  "level": 24,
+  "base_health": 84,
+
+  "type": ["WATER","STEEL"],
+  "evolution" :[],
+  "exp_points": 210
+}

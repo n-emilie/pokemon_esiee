@@ -1,0 +1,22 @@
+{
+  "ability": {
+    "morsure": 1,
+    "gros_yeux": 1,
+    "pietisol": 15
+
+  },
+  "stats": {
+    "attack": 72,
+    "defense": 35,
+    "attack_spe": 35,
+    "defense_spe": 35,
+    "speed": 65
+  },
+  "name": "Mascaiman",
+  "level": 1,
+  "base_health": 50,
+
+  "type": ["GROUND","DARK"],
+  "evolution" :[552,17],
+  "exp_points": 58
+}

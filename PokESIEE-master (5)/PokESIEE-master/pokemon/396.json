@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "charge": 1,
+    "gros_yeux": 1,
+    "vive_attaque": 1,
+    "cru_aile": 1
+
+  },
+  "stats": {
+    "attack": 55,
+    "defense": 30,
+    "attack_spe": 30,
+    "defense_spe": 30,
+    "speed": 60
+  },
+  "name": "Etourmi",
+  "level": 1,
+  "base_health":40,
+
+  "type": ["FLYING","NORMAL"],
+  "evolution" :[397,14],
+  "exp_points": 56
+}

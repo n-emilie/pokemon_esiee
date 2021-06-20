@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "coup_dkorne": 1,
+    "gros_yeux": 1,
+    "jet_de_pierre": 1,
+    "pietisol": 1,
+    "tunnelier": 15,
+    "belier": 17
+  },
+  "stats": {
+    "attack": 85,
+    "defense": 95,
+    "attack_spe": 30,
+    "defense_spe": 30,
+    "speed": 25
+  },
+  "name": "Rhinocorne",
+  "level": 1,
+  "base_health":80,
+
+  "type": ["ROCK","GROUND"],
+  "evolution" :[112,18],
+  "exp_points": 135
+}

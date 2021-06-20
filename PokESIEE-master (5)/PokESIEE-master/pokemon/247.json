@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "morsure": 1,
+    "jet_de_pierre": 1,
+    "eboulement": 13,
+    "machouille": 17,
+    "vibrobscure": 20,
+    "represaille": 22
+
+  },
+  "stats": {
+    "attack": 85,
+    "defense": 70,
+    "attack_spe": 65,
+    "defense_spe": 70,
+    "speed": 50
+  },
+  "name": "Ymphect",
+  "level": 15,
+  "base_health":70,
+
+  "type": ["ROCK","GROUND"],
+  "evolution" :[248,23],
+  "exp_points": 144
+}

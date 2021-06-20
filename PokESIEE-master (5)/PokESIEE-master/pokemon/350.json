@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "vibraqua": 1,
+    "ouragan": 1,
+    "hydro_queue": 18,
+    "laser_glace": 21,
+    "blizzard": 24,
+    "hydrocanon": 27
+  },
+  "stats": {
+    "attack": 60,
+    "defense": 79,
+    "attack_spe": 100,
+    "defense_spe": 125,
+    "speed": 81
+  },
+  "name": "Milobellus",
+  "level": 1,
+  "base_health": 95,
+
+  "type": ["WATER"],
+  "evolution" :[],
+  "exp_points": 213
+}

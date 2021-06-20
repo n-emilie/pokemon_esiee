@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "etonnement": 1,
+    "chatiment": 1,
+    "ombre_nocturne": 9,
+    "ombre_portee": 13,
+    "poing_ombre": 18,
+    "poing_feu": 19,
+    "poing_glace": 20,
+    "poing_elec": 21
+  },
+  "stats": {
+    "attack": 70,
+    "defense": 130,
+    "attack_spe": 60,
+    "defense_spe": 130,
+    "speed": 25
+  },
+  "name": "Teraclope",
+  "level": 16,
+  "base_health":40,
+
+  "type": ["GHOST"],
+  "evolution" :[477,23],
+  "exp_points": 179
+}

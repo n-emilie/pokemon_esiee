@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "griffe": 1,
+    "gros_yeux": 1,
+    "double_pied": 7,
+    "dard_venin": 9
+
+  },
+  "stats": {
+    "attack": 47,
+    "defense": 52,
+    "attack_spe": 40,
+    "defense_spe": 40,
+    "speed": 41
+  },
+  "name": "Nidoran_f",
+  "level": 1,
+  "base_health": 55,
+
+  "type": ["POISON"],
+  "evolution" :[30,10],
+  "exp_points":59
+}

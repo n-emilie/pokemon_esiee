@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "flammeche": 1,
+    "gros_yeux": 1,
+    "puredepois": 9,
+    "morsure": 13,
+    "croc_feu": 15,
+    "feinte": 17
+  },
+  "stats": {
+    "attack": 60,
+    "defense": 30,
+    "attack_spe": 80,
+    "defense_spe": 55,
+    "speed": 65
+  },
+  "name": "Malosse",
+  "level": 1,
+  "base_health":45,
+
+  "type": ["FIRE","DARK"],
+  "evolution" :[229,18],
+  "exp_points": 114
+}

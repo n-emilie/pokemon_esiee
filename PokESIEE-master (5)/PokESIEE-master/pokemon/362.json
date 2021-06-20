@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "vent_glace": 1,
+    "machouille": 20,
+    "croc_givre": 22,
+    "laser_glace": 24,
+    "blizzard": 26
+
+  },
+  "stats": {
+    "attack": 80,
+    "defense": 80,
+    "attack_spe": 80,
+    "defense_spe": 80,
+    "speed": 80
+  },
+  "name": "Oniglali",
+  "level": 1,
+  "base_health": 80,
+
+  "type": ["ICE"],
+  "evolution" :[],
+  "exp_points": 187
+}

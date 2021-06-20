@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "ombre_portee": 1,
+    "represaille": 1,
+    "chatiment": 10,
+    "coup_bas": 15,
+    "balle_ombre": 20,
+    "vibrobscure": 25,
+    "explonuit": 30
+  },
+  "stats": {
+    "attack": 92,
+    "defense": 108,
+    "attack_spe": 92,
+    "defense_spe": 108,
+    "speed": 35
+  },
+  "name": "Spiritomb",
+  "level": 1,
+  "base_health":50,
+
+  "type": ["GHOST","DARK"],
+  "evolution" :[],
+  "exp_points": 168
+}

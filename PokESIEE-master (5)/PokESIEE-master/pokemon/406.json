@@ -1,0 +1,22 @@
+{
+  "ability": {
+    "vol_vie": 1,
+    "croissance": 1,
+    "mega_sangsue": 10
+
+  },
+  "stats": {
+    "attack": 30,
+    "defense": 35,
+    "attack_spe": 50,
+    "defense_spe": 70,
+    "speed": 55
+  },
+  "name": "Rozbouton",
+  "level": 1,
+  "base_health": 40,
+
+  "type": ["GRASS","POISON"],
+  "evolution" :[315,13],
+  "exp_points": 68
+}

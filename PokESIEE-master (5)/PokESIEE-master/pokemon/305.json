@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "charge": 1,
+    "boule_armure": 1,
+    "griffe_acier": 1,
+    "eboulement": 16,
+    "queue_de_fer": 18,
+    "tete_de_fer" : 21
+
+  },
+  "stats": {
+    "attack": 90,
+    "defense": 140,
+    "attack_spe": 40,
+    "defense_spe": 40,
+    "speed": 40
+  },
+  "name": "Galegon",
+  "level": 17,
+  "base_health": 60,
+
+  "type": ["ROCK","STEEL"],
+  "evolution" :[305,22],
+  "exp_points": 152
+}

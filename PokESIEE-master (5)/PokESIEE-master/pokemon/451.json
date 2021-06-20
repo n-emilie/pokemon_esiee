@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "morsure": 1,
+    "dard_venin": 1,
+    "gros_yeux": 1,
+    "dard_nuee": 9,
+    "piqure": 13,
+    "crochet_venin": 19
+  },
+  "stats": {
+    "attack": 50,
+    "defense": 90,
+    "attack_spe": 30,
+    "defense_spe": 55,
+    "speed": 65
+  },
+  "name": "Rapion",
+  "level": 1,
+  "base_health":40,
+
+  "type": ["POISON","BUG"],
+  "evolution" :[452,20],
+  "exp_points": 114
+}

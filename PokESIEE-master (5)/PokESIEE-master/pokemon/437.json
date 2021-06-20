@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "choc_mentale": 1,
+    "rafale_psy": 1,
+    "feinte": 1,
+    "tete_de_fer": 18,
+    "psyko": 21,
+    "balle_ombre": 23,
+    "represaille": 25
+  },
+  "stats": {
+    "attack": 89,
+    "defense": 116,
+    "attack_spe": 79,
+    "defense_spe": 116,
+    "speed": 33
+  },
+  "name": "Archeodong",
+  "level": 1,
+  "base_health": 67,
+
+  "type": ["STEEL","PSYCHIC"],
+  "evolution" :[],
+  "exp_points": 188
+}

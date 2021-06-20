@@ -1,0 +1,28 @@
+{
+  "ability": {
+    "charge": 1,
+    "gros_yeux": 1,
+    "morsure": 1,
+    "vive_attaque": 1,
+    "etincelle": 14,
+    "croc_elec": 16,
+    "coup_de_jus": 20,
+    "tonnerre": 23,
+    "fatal_foudre": 27
+
+  },
+  "stats": {
+    "attack": 75,
+    "defense": 60,
+    "attack_spe": 105,
+    "defense_spe": 60,
+    "speed": 105
+  },
+  "name": "Elecsprint",
+  "level": 18,
+  "base_health":70,
+
+  "type": ["ELECTRIC"],
+  "evolution" :[],
+  "exp_points": 168
+}

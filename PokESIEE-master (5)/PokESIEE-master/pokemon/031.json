@@ -1,0 +1,28 @@
+{
+  "ability": {
+    "griffe": 1,
+    "gros_yeux": 1,
+    "double_pied": 7,
+    "dard_venin": 9,
+    "morsure": 12,
+    "machouille": 16,
+    "crochet_venin": 22,
+    "telluriforce": 24,
+    "surpuissance": 30
+
+  },
+  "stats": {
+    "attack": 92,
+    "defense": 87,
+    "attack_spe": 75,
+    "defense_spe": 85,
+    "speed": 76
+  },
+  "name": "Nidoqueen",
+  "level": 20,
+  "base_health": 90,
+
+  "type": ["POISON","GROUND"],
+  "evolution" :[],
+  "exp_points":194
+}

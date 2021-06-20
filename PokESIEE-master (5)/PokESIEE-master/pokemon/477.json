@@ -1,0 +1,28 @@
+{
+  "ability": {
+    "etonnement": 1,
+    "chatiment": 1,
+    "ombre_nocturne": 9,
+    "ombre_portee": 13,
+    "poing_ombre": 18,
+    "poing_feu": 19,
+    "poing_glace": 20,
+    "poing_elec": 21,
+    "balle_ombre": 24,
+    "explonuit": 27
+  },
+  "stats": {
+    "attack": 100,
+    "defense": 135,
+    "attack_spe": 65,
+    "defense_spe": 135,
+    "speed": 45
+  },
+  "name": "Noctunoir",
+  "level": 23,
+  "base_health":40,
+
+  "type": ["GHOST"],
+  "evolution" :[],
+  "exp_points": 210
+}

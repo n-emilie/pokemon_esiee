@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "charge": 1,
+    "morsure": 1,
+    "gros_yeux": 1,
+    "pietisol": 1,
+    "belier": 18
+  },
+  "stats": {
+    "attack": 72,
+    "defense": 78,
+    "attack_spe": 38,
+    "defense_spe": 42,
+    "speed": 32
+  },
+  "name": "Hippopotas",
+  "level": 1,
+  "base_health": 68,
+
+  "type": ["GROUND"],
+  "evolution" :[450,19],
+  "exp_points": 95
+}

@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "direct_toxic": 1,
+    "feinte": 1,
+    "plaie_croix": 1,
+    "acrobatie": 20,
+    "tranche_nuit": 22,
+    "seisme": 24
+
+  },
+  "stats": {
+    "attack": 95,
+    "defense": 125,
+    "attack_spe":45,
+    "defense_spe": 75,
+    "speed": 95
+  },
+  "name": "Scorvol",
+  "level": 1,
+  "base_health": 75,
+
+  "type": ["FLYING","GROUND"],
+  "evolution" :[],
+  "exp_points": 192
+}

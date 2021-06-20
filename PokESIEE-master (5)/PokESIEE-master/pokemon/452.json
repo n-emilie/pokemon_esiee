@@ -1,0 +1,27 @@
+{
+  "ability": {
+    "morsure": 1,
+    "dard_venin": 1,
+    "gros_yeux": 1,
+    "dard_nuee": 9,
+    "piqure": 13,
+    "crochet_venin": 19,
+    "tranche_nuit": 21,
+    "machouille": 24,
+    "poison_croix": 27
+  },
+  "stats": {
+    "attack": 90,
+    "defense": 110,
+    "attack_spe": 60,
+    "defense_spe": 75,
+    "speed": 95
+  },
+  "name": "Drascore",
+  "level": 20,
+  "base_health":70,
+
+  "type": ["POISON","DARK"],
+  "evolution" :[],
+  "exp_points": 204
+}

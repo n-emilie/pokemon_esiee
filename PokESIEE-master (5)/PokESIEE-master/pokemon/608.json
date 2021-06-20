@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "flammeche": 1,
+    "etonnement": 1,
+    "puredepois": 9,
+    "danseflamme": 12,
+    "chatiment": 14,
+    "rebondifeu": 17
+  },
+  "stats": {
+    "attack": 40,
+    "defense": 60,
+    "attack_spe": 95,
+    "defense_spe": 60,
+    "speed": 55
+  },
+  "name": "Melancolux",
+  "level": 15,
+  "base_health":60,
+
+  "type": ["GHOST","FIRE"],
+  "evolution" :[609,21],
+  "exp_points": 130
+}

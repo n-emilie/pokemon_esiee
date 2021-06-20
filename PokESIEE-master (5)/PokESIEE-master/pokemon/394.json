@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "charge": 1,
+    "rugissement": 1,
+    "ecume": 6,
+    "picpic": 9,
+    "bulle_do": 11,
+    "griffe_acier": 13,
+    "saumure": 19,
+    "bec_vrille": 22
+  },
+  "stats": {
+    "attack": 66,
+    "defense": 68,
+    "attack_spe": 81,
+    "defense_spe": 76,
+    "speed": 50
+  },
+  "name": "Prinplouf",
+  "level": 12,
+  "base_health": 64,
+
+  "type": ["WATER"],
+  "evolution" :[395,24],
+  "exp_points": 143
+}

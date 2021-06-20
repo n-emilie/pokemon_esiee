@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "picpic": 1,
+    "gros_yeux": 1,
+    "vive_attaque": 6,
+    "cru_aile": 12,
+    "aeropique": 15,
+    "lame_dair": 20,
+    "rapace": 25
+
+  },
+  "stats": {
+    "attack": 85,
+    "defense": 60,
+    "attack_spe": 50,
+    "defense_spe": 50,
+    "speed": 125
+  },
+  "name": "Heledelle",
+  "level": 17,
+  "base_health": 60,
+
+  "type": ["FLYING","NORMAL"],
+  "evolution" :[],
+  "exp_points": 162
+}

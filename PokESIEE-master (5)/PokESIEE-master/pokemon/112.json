@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "coup_dkorne": 1,
+    "gros_yeux": 1,
+    "jet_de_pierre": 1,
+    "pietisol": 1,
+    "tunnelier": 15,
+    "belier": 17,
+    "eboulement": 20,
+    "seisme": 23
+  },
+  "stats": {
+    "attack": 130,
+    "defense": 120,
+    "attack_spe": 45,
+    "defense_spe": 45,
+    "speed": 40
+  },
+  "name": "Rhinoferoce",
+  "level": 18,
+  "base_health":105,
+
+  "type": ["ROCK","GROUND"],
+  "evolution" :[464,25],
+  "exp_points": 204
+}

@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "eclair": 1,
+    "double_pied": 5,
+    "vive_attaque": 9,
+    "boule_elec": 15,
+    "etincelle": 15
+
+  },
+  "stats": {
+    "attack": 55,
+    "defense": 40,
+    "attack_spe": 50,
+    "defense_spe": 50,
+    "speed": 90
+  },
+  "name": "Pikachu",
+  "level": 1,
+  "base_health": 35,
+
+  "type": ["ELECTRIC"],
+  "evolution" :[26,16],
+  "exp_points": 82
+}

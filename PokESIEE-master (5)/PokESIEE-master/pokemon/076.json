@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "pietisol": 1,
+    "eboulement": 1,
+    "lame_de_roc": 20,
+    "seisme": 23,
+    "damocles": 25,
+    "roc_boulet": 28
+
+  },
+  "stats": {
+    "attack": 120,
+    "defense": 130,
+    "attack_spe":55,
+    "defense_spe": 65,
+    "speed": 45
+  },
+  "name": "Grolem",
+  "level": 1,
+  "base_health": 80,
+
+  "type": ["ROCK","GROUND"],
+  "evolution" :[],
+  "exp_points": 177
+}

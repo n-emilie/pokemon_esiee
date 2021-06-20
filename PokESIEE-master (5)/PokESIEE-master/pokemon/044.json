@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "vol_vie": 1,
+    "croissance": 1,
+    "acide": 7,
+    "mega_sangsue": 12,
+    "tranche_herbe": 14,
+    "giga_sangsue": 17
+
+  },
+  "stats": {
+    "attack": 65,
+    "defense": 70,
+    "attack_spe": 85,
+    "defense_spe": 75,
+    "speed": 40
+  },
+  "name": "Ortide",
+  "level": 15,
+  "base_health": 60,
+
+  "type": ["GRASS","POISON"],
+  "evolution" :[45,21],
+  "exp_points": 132
+}

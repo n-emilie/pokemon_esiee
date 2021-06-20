@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "belier": 1,
+    "tranche": 1,
+    "tete_de_fer": 18,
+    "bourdon": 20,
+    "plaie_croix": 22,
+    "direct_toxic": 25
+  },
+  "stats": {
+    "attack": 135,
+    "defense": 105,
+    "attack_spe": 60,
+    "defense_spe": 105,
+    "speed": 20
+  },
+  "name": "Lançargot",
+  "level": 1,
+  "base_health": 70,
+
+  "type": ["BUG","STEEL"],
+  "evolution" :[],
+  "exp_points": 173
+}

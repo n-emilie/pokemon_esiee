@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "griffe": 1,
+    "gros_yeux": 1,
+    "feinte": 1,
+    "griffe_acier": 14,
+    "tranche": 16
+
+
+  },
+  "stats": {
+    "attack": 85,
+    "defense": 70,
+    "attack_spe": 40,
+    "defense_spe": 40,
+    "speed": 60
+  },
+  "name": "Scalpion",
+  "level": 1,
+  "base_health":45,
+
+  "type": ["STEEL","DARK"],
+  "evolution" :[625,19],
+  "exp_points": 68
+}

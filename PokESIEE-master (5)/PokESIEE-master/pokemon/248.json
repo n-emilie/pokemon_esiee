@@ -1,0 +1,27 @@
+{
+  "ability": {
+    "morsure": 1,
+    "jet_de_pierre": 1,
+    "eboulement": 13,
+    "machouille": 17,
+    "vibrobscure": 20,
+    "represaille": 22,
+    "lame_de_roc": 25,
+    "seisme": 27
+
+  },
+  "stats": {
+    "attack": 135,
+    "defense": 110,
+    "attack_spe": 95,
+    "defense_spe": 100,
+    "speed": 60
+  },
+  "name": "Tyranocif",
+  "level": 23,
+  "base_health":100,
+
+  "type": ["ROCK","DARK"],
+  "evolution" :[],
+  "exp_points": 218
+}

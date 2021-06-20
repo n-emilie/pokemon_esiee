@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "griffe": 1,
+    "gros_yeux": 1,
+    "feinte": 1,
+    "attrition": 13
+
+
+  },
+  "stats": {
+    "attack": 60,
+    "defense": 60,
+    "attack_spe": 35,
+    "defense_spe": 35,
+    "speed": 30
+  },
+  "name": "Parecool",
+  "level": 1,
+  "base_health":60,
+
+  "type": ["NORMAL"],
+  "evolution" :[288,15],
+  "exp_points": 83
+}

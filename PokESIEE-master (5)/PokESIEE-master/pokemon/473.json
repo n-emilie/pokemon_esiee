@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "pietisol": 1,
+    "eboulement": 1,
+    "croc_givre": 1,
+    "chute_de_glace": 20,
+    "seisme": 23,
+    "blizzard": 26
+  },
+  "stats": {
+    "attack": 130,
+    "defense": 80,
+    "attack_spe": 70,
+    "defense_spe": 60,
+    "speed": 80
+  },
+  "name": "Mammochon",
+  "level": 1,
+  "base_health": 110,
+
+  "type": ["ICE","GROUND"],
+  "evolution" :[],
+  "exp_points": 207
+}

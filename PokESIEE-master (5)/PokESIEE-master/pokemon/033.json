@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "griffe": 1,
+    "gros_yeux": 1,
+    "double_pied": 7,
+    "dard_venin": 9,
+    "coup_dkorne": 12
+
+  },
+  "stats": {
+    "attack": 72,
+    "defense": 57,
+    "attack_spe": 55,
+    "defense_spe": 55,
+    "speed": 65
+  },
+  "name": "Nidorino",
+  "level": 10,
+  "base_health": 61,
+
+  "type": ["POISON"],
+  "evolution" :[34,20],
+  "exp_points":118
+}

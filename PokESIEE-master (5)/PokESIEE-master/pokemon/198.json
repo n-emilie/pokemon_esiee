@@ -1,0 +1,23 @@
+{
+  "ability": {
+    "picpic": 1,
+    "etonnement": 1,
+    "cru_aile": 9,
+    "ombre_nocturne": 13,
+    "feinte": 16
+  },
+  "stats": {
+    "attack": 85,
+    "defense": 42,
+    "attack_spe": 85,
+    "defense_spe": 42,
+    "speed": 91
+  },
+  "name": "Cornebre",
+  "level": 1,
+  "base_health":60,
+
+  "type": ["FLYING","DARK"],
+  "evolution" :[430,17],
+  "exp_points": 107
+}

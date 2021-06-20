@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "rafale_psy": 1,
+    "tomberoche": 1,
+    "eboulement": 18,
+    "psyko": 20,
+    "balle_ombre": 22,
+    "lame_de_roc": 24,
+    "seisme": 27
+  },
+  "stats": {
+    "attack": 70,
+    "defense": 105,
+    "attack_spe": 70,
+    "defense_spe": 120,
+    "speed": 75
+  },
+  "name": "Kaorine",
+  "level": 1,
+  "base_health": 60,
+
+  "type": ["GROUND","PSYCHIC"],
+  "evolution" :[],
+  "exp_points": 189
+}

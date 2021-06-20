@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "picpic": 1,
+    "gros_yeux": 1,
+    "vive_attaque": 6,
+    "cru_aile": 12,
+    "aeropique": 15
+
+  },
+  "stats": {
+    "attack": 55,
+    "defense": 30,
+    "attack_spe": 30,
+    "defense_spe": 30,
+    "speed": 85
+  },
+  "name": "Nirondelle",
+  "level": 1,
+  "base_health": 40,
+
+  "type": ["FLYING","NORMAL"],
+  "evolution" :[277,17],
+  "exp_points": 59
+}

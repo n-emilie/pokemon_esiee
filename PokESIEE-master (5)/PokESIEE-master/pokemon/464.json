@@ -1,0 +1,28 @@
+{
+  "ability": {
+    "coup_dkorne": 1,
+    "gros_yeux": 1,
+    "jet_de_pierre": 1,
+    "pietisol": 1,
+    "tunnelier": 15,
+    "belier": 17,
+    "eboulement": 20,
+    "seisme": 23,
+    "megacorne": 26,
+    "lame_de_roc": 29
+  },
+  "stats": {
+    "attack": 140,
+    "defense": 130,
+    "attack_spe": 55,
+    "defense_spe": 55,
+    "speed": 40
+  },
+  "name": "Rhinastoc",
+  "level": 25,
+  "base_health": 115,
+
+  "type": ["ROCK","GROUND"],
+  "evolution" :[],
+  "exp_points": 241
+}

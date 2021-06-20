@@ -1,0 +1,22 @@
+{
+  "ability": {
+    "etonnement": 1,
+    "chatiment": 1,
+    "ombre_nocturne": 9,
+    "ombre_portee": 13
+  },
+  "stats": {
+    "attack": 40,
+    "defense": 90,
+    "attack_spe": 30,
+    "defense_spe": 90,
+    "speed": 25
+  },
+  "name": "Skelenox",
+  "level": 1,
+  "base_health":20,
+
+  "type": ["GHOST"],
+  "evolution" :[356,16],
+  "exp_points": 97
+}

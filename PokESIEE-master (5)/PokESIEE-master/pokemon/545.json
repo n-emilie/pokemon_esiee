@@ -1,0 +1,27 @@
+{
+  "ability": {
+    "dard_venin": 1,
+    "boule_armure": 1,
+    "queue_poison": 9,
+    "piqure": 11,
+    "acide": 15,
+    "buldoboule": 21,
+    "bomb_beurk": 24,
+    "megacorne": 28
+
+  },
+  "stats": {
+    "attack": 100,
+    "defense": 90,
+    "attack_spe": 55,
+    "defense_spe": 70,
+    "speed": 112
+  },
+  "name": "Brutapode",
+  "level": 20,
+  "base_health": 60,
+
+  "type": ["BUG","POISON"],
+  "evolution" :[],
+  "exp_points": 214
+}

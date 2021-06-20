@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "dard_venin": 1,
+    "boule_armure": 1,
+    "queue_poison": 9,
+    "piqure": 11,
+    "acide": 15
+
+  },
+  "stats": {
+    "attack": 55,
+    "defense": 100,
+    "attack_spe": 40,
+    "defense_spe": 80,
+    "speed": 47
+  },
+  "name": "Scobolide",
+  "level": 12,
+  "base_health": 40,
+
+  "type": ["BUG","POISON"],
+  "evolution" :[545,20],
+  "exp_points": 126
+}

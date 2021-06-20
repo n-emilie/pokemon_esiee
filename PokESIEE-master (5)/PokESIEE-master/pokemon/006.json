@@ -1,0 +1,26 @@
+{
+  "ability": {
+    "griffe": 1,
+    "rugissement": 1,
+    "flammeche": 6,
+    "griffe_acier": 8,
+    "croc_feu": 10,
+    "tranche": 17,
+    "lance_flamme" : 25,
+    "boutefeu" : 30
+  },
+  "stats": {
+    "attack": 84,
+    "defense": 78,
+    "attack_spe": 109,
+    "defense_spe": 85,
+    "speed": 100
+  },
+  "name": "Dracaufeu",
+  "level": 24,
+  "base_health": 78,
+
+  "type": ["FIRE","FLYING"],
+  "evolution" :[],
+  "exp_points": 209
+}

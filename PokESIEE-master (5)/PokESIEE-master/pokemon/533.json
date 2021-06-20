@@ -1,0 +1,25 @@
+{
+  "ability": {
+    "ecras_face": 1,
+    "gros_yeux": 1,
+    "balayage": 6,
+    "jet_de_pierre": 9,
+    "reveil_force": 13,
+    "casse_brique": 17
+
+  },
+  "stats": {
+    "attack": 105,
+    "defense": 85,
+    "attack_spe": 40,
+    "defense_spe": 50,
+    "speed": 40
+  },
+  "name": "Ouvrifier",
+  "level": 10,
+  "base_health": 85,
+
+  "type": ["FIGHTING"],
+  "evolution" :[534,20],
+  "exp_points": 142
+}

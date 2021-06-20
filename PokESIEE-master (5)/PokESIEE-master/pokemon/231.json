@@ -1,0 +1,24 @@
+{
+  "ability": {
+    "charge": 1,
+    "boule_armure": 1,
+    "belier": 9,
+    "jet_de_pierre": 12,
+    "souplesse": 15
+
+  },
+  "stats": {
+    "attack": 60,
+    "defense": 60,
+    "attack_spe": 40,
+    "defense_spe": 40,
+    "speed": 40
+  },
+  "name": "Phanpy",
+  "level": 1,
+  "base_health": 90,
+
+  "type": ["GROUND"],
+  "evolution" :[232,18],
+  "exp_points": 124
+}

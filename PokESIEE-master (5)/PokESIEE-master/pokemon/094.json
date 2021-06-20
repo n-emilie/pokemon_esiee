@@ -1,0 +1,28 @@
+{
+  "ability": {
+    "lechouille": 1,
+    "puredepois": 1,
+    "ombre_nocturne": 6,
+    "coup_bas": 9,
+    "represaille": 12,
+    "poing_ombre": 19,
+    "vibrobscure": 21,
+    "balle_ombre": 25,
+    "bomb_beurk": 29
+
+  },
+  "stats": {
+    "attack": 60,
+    "defense": 65,
+    "attack_spe": 130,
+    "defense_spe": 75,
+    "speed": 110
+  },
+  "name": "Ectoplasma",
+  "level": 22,
+  "base_health": 60,
+
+  "type": ["GHOST","POISON"],
+  "evolution" :[],
+  "exp_points": 190
+}
